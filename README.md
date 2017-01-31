@@ -1,8 +1,8 @@
 # MyRegExApp
-This project is just a basic text extractor that require the certain format i have made. the result will create some file, 
+This project is just a simple text extractor that require the certain format i have made. the result will create some file, 
 some column in each file, and some data for each file.
 
-There are 3 text box, and each text box will have different function after extracting.
+There are 3 textbox, and each textbox will have different function after extracting.
 
 Here the text format :
 
