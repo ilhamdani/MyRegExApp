@@ -23,7 +23,7 @@ Here the text format :
             123 stand for id of column name<br>
             
 3. <b>Event Long Description</b> <br>
-   <b>Format</b> : <br>A.T001.2000|B.T002.300|C.T003.2000*T001.23.5.200000.39999|T002.4.60.2005000.400187|*T001.45.23.Test.400.5000000<br>
+   <b>Format</b> : <br>A.T001.2000|B.T002.300|C.T003.2000&#8727;T001.23.5.200000.39999|T002.4.60.2005000.400187&#8727;T001.45.23.Test.400.5000000<br>
    <b>Description</b> : <br>the function of this part is for the data that we provide for each file<br>
    <b>Detail</b> : <br>each data are marked with "|" symbol<br>
             each data for each file are marked "*" symbol<br>
